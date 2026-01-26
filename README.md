@@ -38,12 +38,6 @@ Interactive chatbot integrating GPT-based responses with a responsive frontend U
 Trained neural network for image classification with real-time predictions.  
 *Python · PyTorch · Computer Vision*
 
-*(Add more projects from your repos here — just list the title, short description, and tech tags.)*
-
 ---
 
-## 📈 GitHub Stats
 
-![Leeza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeza222&show_icons=true&theme=radical)
-
----
