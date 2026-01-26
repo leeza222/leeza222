@@ -1,16 +1,49 @@
-## Hi there 👋
+#  Hi, I’m Leeza Khanjada
 
-<!--
-**leeza222/leeza222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **B.Tech Computer Science (CSE)** — 3rd Year • Silver Oak University  
+ **AI/ML Developer @ Virtual Height**
 
-Here are some ideas to get you started:
+I'm passionate about building **intelligent systems** using Machine Learning and AI. I work on real-world projects involving **LLMs, AI agents, predictive models, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Contact
+
+ LinkedIn: (add your link here)  
+ Email: (add your email here)
+
+---
+
+##  Skills
+
+**Languages:** Python, Java, C++  
+**AI / ML:** TensorFlow, PyTorch, Scikit-Learn  
+**LLMs / NLP:** OpenAI APIs, LangChain, Transformer Models  
+**Tools & Dev:** Git, Docker, Linux, VS Code  
+**Databases:** MySQL, MongoDB
+
+---
+
+##  Projects
+
+### 🔹 AI Agent Explorer  
+A custom autonomous AI agent that performs multi-step reasoning and task automation using LangChain and OpenAI APIs.  
+*Python · LLMs · Automation*
+
+### 🔹 Smart Chatbot App  
+Interactive chatbot integrating GPT-based responses with a responsive frontend UI.  
+*Python · JavaScript · API Integration*
+
+### 🔹 Vision Model Classifier  
+Trained neural network for image classification with real-time predictions.  
+*Python · PyTorch · Computer Vision*
+
+*(Add more projects from your repos here — just list the title, short description, and tech tags.)*
+
+---
+
+## 📈 GitHub Stats
+
+![Leeza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeza222&show_icons=true&theme=radical)
+
+---
