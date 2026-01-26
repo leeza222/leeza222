@@ -9,8 +9,8 @@ I'm passionate about building **intelligent systems** using Machine Learning and
 
 ##  Contact
 
- LinkedIn: (add your link here)  
- Email: (add your email here)
+ LinkedIn: (www.linkedin.com/in/leeza-khanjada-416984297)  
+ Email: (leezakhanjada7@gmail.com)
 
 ---
 
